@@ -1,2 +1,4 @@
 CGraphics
 =========
+
+Computer graphics labs
